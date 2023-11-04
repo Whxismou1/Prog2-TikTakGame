@@ -31,10 +31,10 @@ La salida del programa será la matriz completamente rellena de 'o's o 'x's, una
 ## Ejemplo
 
 ### Entrada 1
-_X_
-XOO
+_x_<br>
+xoo<br>
 o__
 ### Salida 1
-OXO
-XOO
+OXO<br>
+XOO<br>
 OOX
